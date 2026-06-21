@@ -1,0 +1,44 @@
+# Customer data
+
+data/
+backups/
+tally_exports/
+
+# Databases and Excel files
+
+*.db
+*.xlsx
+
+# Python cache
+
+**pycache**/
+*.pyc
+
+# Build files
+
+build/
+dist/
+
+# VS Code
+
+.vscode/
+
+# Temporary Excel files
+
+~$*
+# PyInstaller
+
+*.spec
+
+# Executables
+
+*.exe
+
+# Extra text files
+
+requirements.txt.txt
+
+# Build folders
+
+build/
+dist/
