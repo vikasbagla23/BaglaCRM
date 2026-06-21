@@ -1,31 +1,32 @@
-# BaglaCRM
+# 🛍️ BaglaCRM
 
 A Python-based Customer Relationship Management (CRM) system for retail businesses with Tally integration and WhatsApp automation.
 
 ---
 
-## Features
+## 🚀 Features
 
-### Customer Management
+### 👥 Customer Management
 
-* Automatic import from Tally Excel exports
-* SQLite customer database
+* Automatic customer import from Tally Excel exports
+* SQLite database storage
 * Purchase history management
 
-### Marketing Automation
+### 🎉 Marketing Automation
 
 * Birthday wishes
 * Pre-birthday reminders
 * Offer expiry reminders
 * Festival greetings
 
-### Analytics
+### 📊 Analytics
 
 * Sales dashboard
 * Top customer analysis
 * Average bill value
+* Customer statistics
 
-### Automation
+### ⚙️ Automation
 
 * Windows Task Scheduler support
 * Automatic database backups
@@ -33,7 +34,7 @@ A Python-based Customer Relationship Management (CRM) system for retail business
 
 ---
 
-## Technologies Used
+## 🛠️ Tech Stack
 
 * Python
 * SQLite
@@ -44,22 +45,50 @@ A Python-based Customer Relationship Management (CRM) system for retail business
 
 ---
 
-## Folder Structure
+## 📂 Project Structure
 
 BaglaCRM
-│
-├── app
-├── images
+
+├── app/
+
+├── images/
+
+├── screenshots/
+
 ├── requirements.txt
+
 ├── README.md
+
+├── LICENSE
+
 └── .gitignore
 
 ---
 
-## Future Enhancements
+## 📸 Screenshots
+
+(Add screenshots here)
+
+### Main Menu
+
+![Main Menu](screenshots/main_menu.png)
+
+### Sales Dashboard
+
+![Sales Dashboard](screenshots/sales_dashboard.png)
+
+### Birthday Automation
+
+![Birthday Automation](screenshots/birthday_message.png)
+
+---
+
+## 🔮 Future Enhancements
 
 * GUI Dashboard
+* Customer Search
 * Customer Analytics
+* Graphs and Charts
 * PDF Reports
 * Anniversary Wishes
 * AI Recommendations
@@ -67,12 +96,10 @@ BaglaCRM
 
 ---
 
-## Developed By
+## 👨‍💻 Developed By
 
-Vikas Bagla
+**Vikas Bagla**
 
-Civil Engineering Student
+---
 
-JNVU, Jodhpur
-
-Made with ❤️ using Python
+⭐ If you found this project interesting, consider giving it a star.
